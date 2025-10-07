@@ -1,4 +1,7 @@
 ## Hi there, I am Zinedine Álvarez Sais 👋
+### 👋 About Me
+
+I’m a final-year Software Engineering student with a strong passion for cybersecurity and ethical hacking. I’m particularly interested in penetration testing and exploring ways to secure systems and applications. Always eager to learn new skills and take on challenging projects in the tech and security field.
 
 
 ### 🛠️ Tech Stack & Tools
@@ -25,14 +28,14 @@
 
 
 ---
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zinedinealvarez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinedinealvarez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinedinealvarez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
 
+---
 ### 🌐 Connect with Me
 
 <div align="left">
